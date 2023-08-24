@@ -1,0 +1,11 @@
+
+<unistd.h> https://pubs.opengroup.org/onlinepubs/7908799/xsh/unistd.h.html
+<sys/wait.h> https://pubs.opengroup.org/onlinepubs/7908799/xsh/syswait.h.html
+
+<sys/type.h> https://pubs.opengroup.org/onlinepubs/007904975/basedefs/sys/types.h.html
+
+<fcntl.h> https://pubs.opengroup.org/onlinepubs/7908799/xsh/fcntl.h.html
+<sys/stat.h> https://pubs.opengroup.org/onlinepubs/007908799/xsh/sysstat.h.html
+
+<signal.h> https://pubs.opengroup.org/onlinepubs/7908799/xsh/signal.h.html
+<pthread.h> https://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread.h.html
